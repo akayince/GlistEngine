@@ -30,6 +30,7 @@ public:
 	void setTableColor(gColor color);
 	void setSelectedTable();
 
+
 	gColor* getTableColor();
 	gColor* getFontColor();
 	void getSelectedTable();
